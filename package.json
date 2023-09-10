@@ -1,0 +1,12 @@
+{
+  "name": "bun-libsql-hrana-test",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "latest",
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "@libsql/client": "^0.3.3-pre.2"
+  }
+}
